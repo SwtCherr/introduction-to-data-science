@@ -1,5 +1,8 @@
 # introduction-to-data-science
 
+
+*Андрей Панфёров, пошёл вон с моего гита*
+
 Ноутбуки с занятий от Phystech@DataScience по основам анализа данных. 
 
 * lec1_noteook — введение в статистику
