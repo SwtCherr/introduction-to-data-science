@@ -1,8 +1,5 @@
 # introduction-to-data-science
 
-
-*Андрей Панфёров, пошёл вон с моего гита*
-
 Ноутбуки с занятий от [Phystech@DataScience](https://mipt-stats.gitlab.io/courses/ad_mipt.html) по основам анализа данных. 
 
 * lec1_noteook — введение в статистику
